@@ -1,0 +1,4 @@
+patient1	XX	0	Normal	example/fastq/Normal_1.fastq.gz	example/fastq/Normal_2.fastq.gz
+patient1	XX	1	Breast	example/fastq/Breast_1.fastq.gz	example/fastq/Breast_2.fastq.gz
+patient1	XX	1	Coad	example/fastq/Coad_1.fastq.gz	example/fastq/Coad_2.fastq.gz
+patient1	XX	1	Lung	example/fastq/Lung_1.fastq.gz	example/fastq/Lung_2.fastq.gz
